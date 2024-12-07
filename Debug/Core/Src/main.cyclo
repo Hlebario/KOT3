@@ -1,0 +1,17 @@
+../Core/Src/main.c:86:6:PCA9685_SetBit	2
+../Core/Src/main.c:97:6:PCA9685_SetPWMFrequency	3
+../Core/Src/main.c:111:6:PCA9685_Init	1
+../Core/Src/main.c:117:6:PCA9685_SetPWM	1
+../Core/Src/main.c:130:6:PCA9685_SetServoAngle	1
+../Core/Src/main.c:148:6:HAL_UART_IDLE_Callback	4
+../Core/Src/main.c:165:6:HAL_UART_RxCpltCallback	2
+../Core/Src/main.c:182:6:HAL_UART_ErrorCallback	7
+../Core/Src/main.c:228:7:getTheta	5
+../Core/Src/main.c:252:6:moveTOPS	3
+../Core/Src/main.c:292:6:inPlace	1
+../Core/Src/main.c:319:6:step	9
+../Core/Src/main.c:393:6:stand	1
+../Core/Src/main.c:407:6:UpdatePosition	13
+../Core/Src/main.c:475:5:main	1
+../Core/Src/main.c:539:6:SystemClock_Config	3
+../Core/Src/main.c:589:6:Error_Handler	1
